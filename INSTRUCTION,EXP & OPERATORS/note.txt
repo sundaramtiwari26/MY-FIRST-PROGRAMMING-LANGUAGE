@@ -1,0 +1,13 @@
+3 type of instruction 
+1.type decleration instruction
+2.arithematic instruction
+3.control instruction
+assignment operator assigns the right hand operands value to the left hand operands x=y this is not checking equality
+scope of the variable
+arithematic operators,logical operators,relational operators
+bitwise operators,ternary operators,sizeof operators
+shorthand operators ,unary operators(pre increment and post increment)
+control instruction 
+sequence controlselection control
+loop control
+case control
